@@ -3,7 +3,8 @@ favicon: /img/favicon.png
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'chenliang'
-author_bio: 'Current Location: @Guangzhou, China.'
+author_cn: '(陈亮)'
+author_bio: '@Guangzhou, China.'
 
 since: 2021
 

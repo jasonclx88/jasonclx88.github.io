@@ -311,8 +311,13 @@ blockquote
   padding-right: 15px;
   line-height: 1;
   h3
-    margin: 0px;
+    display: table;
+    margin:0px auto;
     font-size 2.8rem
+    vertical-align: middle;
+    .author-cn
+      display: table-cell;
+      vertical-align: middle;
   .author-bio
     font-size: 1.8rem;
     margin: .3rem 0;
@@ -320,13 +325,14 @@ blockquote
 .author-links
   display: table-cell;
   position: relative;
-  vertical-align: top;
   z-index: 10;
   cursor: pointer;
+  vertical-align: middle;
   li
     white-space: nowrap;
     margin-bottom: 0.5em;
   a
+    vertical-align: middle;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;

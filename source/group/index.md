@@ -15,6 +15,7 @@ date: 2021-06-11 17:04:31
 * Angyu Zheng (Master, 2018-2021, Wechat)
 * Jintang Li(Master, 2019-2021, Study for PhD in Sun Yat-sen University)
 * Jiaying Peng(Master, 2019-2021, Wechat)
+* Yuanzhen Xie(Master, 2019-2021, Wechat)
 * Xianzhuo Xia(Master, 2019-2021, HuaWei)
 * Yangjun Xu(Master, 2019-2021, China Southern Power Grid)
 
@@ -27,4 +28,5 @@ date: 2021-06-11 17:04:31
 * Jie Liao(Master, 2021-now)
 * Yuxin Zhang(Master, 2021-now)
 * Zhouxin Yu(Master, 2021-now)
+* Jintang Li(Doctor, 2021-now)
 
