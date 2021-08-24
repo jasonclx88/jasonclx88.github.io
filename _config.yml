@@ -7,8 +7,8 @@ title: chenliang.tech
 subtitle: ''
 description: ''
 keywords:
-author: Liang Chen
-author_cn: ' ( 陈亮 ) ' 
+author: 陈亮
+author_cn: Liang Chen
 language: en
 timezone: ''
 
@@ -107,4 +107,6 @@ deploy:
   type: git
   # repository: git@github.com:chiiyuu/chiiyuu.github.io.git
   repository: git@github.com:jasonclx88/jasonclx88.github.io.git
-  branch: pages
+  # repository: git@github.com:zhanghaha1707/zhanghaha1707.github.io.git
+  branch: master
+  # branch: pages
