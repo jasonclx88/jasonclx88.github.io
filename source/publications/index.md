@@ -5,7 +5,7 @@ date: 2021-06-11 15:56:11
 
 ### 2021
 * **[CIKM]** Kun Xu, Yuanzhen Xie,  **Liang Chen\*** and Zibin Zheng, “Expanding Relationship for Cross Domain Recommendation”, 30th ACM International Conference on Information and Knowledge Management, Research Track, Gold Coast, Australia, Nov 1 - 5, 2021, accepted.
-* **[TOIS]** Minghao Zhao, Qilin Deng, Kai Wang, Runze Wu, Jianrong Tao, Changjie Fan, **Liang Chen**, Peng Cui, "Bilateral Filtering Graph Convolutional Network for Social Recommendation in Power-Law Networks", ACM Transactions on Information Systems, accepted, June 2021. **<font color=red>[CCF-A]</font>**  
+* **[TOIS]** Minghao Zhao, Qilin Deng, Kai Wang, Runze Wu, Jianrong Tao, Changjie Fan, **Liang Chen**, Peng Cui, "Bilateral Filtering Graph Convolutional Network for Social Recommendation in Power-Law Networks", ACM Transactions on Information Systems, Vol 40, Issue 2, pp.1-24. **<font color=red>[CCF-A]</font>**  
   [SCI Impact Factor=2.9]
 * **[IJCAI]** **Liang Chen**, Jintang Li, Qibiao Peng , Yang Liu, Zibin Zheng, Carl Yang, "Understanding Structural Vulnerability in Graph Convolutional Networks", 30th International Joint Conference on Artificial Intelligence, Montreal-themed Virtual Reality, August 21-26, 2021, accepted. **<font color=red>[CCF-A]</font>**
 * **[IJCAI]** Carl Yang, Haonan Wang, Ke Zhang, **Liang Chen**, Lichao Sun, "Secure Graph Generation with Link Privacy", 30th International Joint Conference on Artificial Intelligence, Montreal-themed Virtual Reality, August 21-26, 2021, accepted. **<font color=red>[CCF-A]</font>**
