@@ -49,8 +49,8 @@ e_social:
 e_social_links:
   # jasonclx@gmail.com: \||fas fa-envelope
   Google Scholar: https://scholar.google.com/citations?user=pGZtPjcAAAAJ&hl=en || fas fa-graduation-cap
-  # ORCID: / || fab fa-orcid
-
+  GEAR图学习: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MjY0NTQ1MQ==&action=getalbum&album_id=2077482025749446657&scene=173&from_msgid=2247483882&from_itemidx=1&count=3&nolastread=1#wechat_redirect || fab fa-weixin
+  
 # CV download link
 cv_dl:
   enable: false # 老师说不需要CV，更新起来比较麻烦

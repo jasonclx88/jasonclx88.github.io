@@ -7,27 +7,27 @@ date: 2021-06-11 15:56:11
 * **[CIKM]** Kun Xu, Yuanzhen Xie,  **Liang Chen\*** and Zibin Zheng, “Expanding Relationship for Cross Domain Recommendation”, 30th ACM International Conference on Information and Knowledge Management, Research Track, Gold Coast, Australia, Nov 1 - 5, 2021, accepted.
 * **[TOIS]** Minghao Zhao, Qilin Deng, Kai Wang, Runze Wu, Jianrong Tao, Changjie Fan, **Liang Chen**, Peng Cui, "Bilateral Filtering Graph Convolutional Network for Social Recommendation in Power-Law Networks", ACM Transactions on Information Systems, Vol 40, Issue 2, pp.1-24. **<font color=red>[CCF-A]</font>**  
   [SCI Impact Factor=2.9]
-* **[IJCAI]** **Liang Chen**, Jintang Li, Qibiao Peng , Yang Liu, Zibin Zheng, Carl Yang, "Understanding Structural Vulnerability in Graph Convolutional Networks", 30th International Joint Conference on Artificial Intelligence, Montreal-themed Virtual Reality, August 21-26, 2021, accepted. **<font color=red>[CCF-A]</font>**
-* **[IJCAI]** Carl Yang, Haonan Wang, Ke Zhang, **Liang Chen**, Lichao Sun, "Secure Graph Generation with Link Privacy", 30th International Joint Conference on Artificial Intelligence, Montreal-themed Virtual Reality, August 21-26, 2021, accepted. **<font color=red>[CCF-A]</font>**
-* **[TKDE]** Jintang Li, Tao Xie, **Liang Chen\***, Fenfang Xie, Xiangnan He, Zibin Zheng, "Adversarial Attack on Large Scale Graph", IEEE Transactions on Knowledge and Data Engineering, accepted, April 2021. **<font color=red>[CCF-A]</font>**
+* **[IJCAI]** **Liang Chen**, Jintang Li, Qibiao Peng , Yang Liu, Zibin Zheng, Carl Yang, "Understanding Structural Vulnerability in Graph Convolutional Networks", 30th International Joint Conference on Artificial Intelligence, Main Track, Montreal-themed Virtual Reality, Canada, 2021, pp.2249-2255. **<font color=red>[CCF-A]</font>**
+* **[IJCAI]** Carl Yang, Haonan Wang, Ke Zhang, **Liang Chen**, Lichao Sun, "Secure Graph Generation with Link Privacy", 30th International Joint Conference on Artificial Intelligence, Main Track, Montreal-themed Virtual Reality, Canada, 2021, pp.3271-3278. **<font color=red>[CCF-A]</font>**
+* **[TKDE]** Jintang Li, Tao Xie, **Liang Chen\***, Fenfang Xie, Xiangnan He, Zibin Zheng, "Adversarial Attack on Large Scale Graph", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2021.3078755. **<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=4.9]
-* **[SIGIR]** Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, **Liang Chen**, Jianxun Lian, Xing Xie, "Self-supervised Graph Learning for Recommendation", 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper, online, July 11-15, 2021, accepted. **<font color=red>[CCF-A]</font>**
-* **[SIGIR]** Jiawei Chen, Hande Dong, Yang Qiu, Xiangnan He, Xin Xin, **Liang Chen**, Guli Lin, Keping Yang, "AutoDebias: Learning to Debias for Recommendation", 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper, online, July 11-15, 2021, accepted. **<font color=red>[CCF-A]</font>**
+* **[SIGIR]** Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, **Liang Chen**, Jianxun Lian, Xing Xie, "Self-supervised Graph Learning for Recommendation", 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper, July 2021, pp.726–735. **<font color=red>[CCF-A]</font>**
+* **[SIGIR]** Jiawei Chen, Hande Dong, Yang Qiu, Xiangnan He, Xin Xin, **Liang Chen**, Guli Lin, Keping Yang, "AutoDebias: Learning to Debias for Recommendation", 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper, July 2021, pp.21–30. **<font color=red>[CCF-A]</font>**
 * **[ASC]** Tingting Liang， Xuan Sheng， Li Zhou， Youhuizi Li， Honghao Gao，Yuyu Yin，**Liang Chen**, "Mobile app recommendation via heterogeneous graph neural network in edge computing", Applied Soft Computing, May, 2021, Vol 103, 107162.
-* **[ICSE]** Jintang Li, Kun Xu, **Liang Chen\***, Zibin Zheng and Xiao Liu, "GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software", 43rd International Conference on Software Engineering, demo track, Virtual, May 25-28, 2021, accepted. **<font color=red>[CCF-A]</font>**
-* **[WWW]** Yu Zheng, Chen Gao, **Liang Chen**, Yong Li, Depeng Jin, "Diversified Recommendation Through Similarity-Guided Graph Neural Networks", 30th The Web Conference, Slovenia, April 19-23, 2021, accepted.**<font color=red>[CCF-A]</font>**
-* **[ICDE]** Tao Xie, Yangjun Xu, **Liang Chen\***, Yang Liu, and Zibin Zheng, "Sequential Recommendation on Dynamic Heterogeneous Information Network", IEEE 37th International Conference on Data Engineering, Poster, Greece, April 19 - 22, 2021, accepted. **<font color=red>[CCF-A]</font>**
+* **[ICSE]** Jintang Li, Kun Xu, **Liang Chen\***, Zibin Zheng and Xiao Liu, "GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software", 43rd International Conference on Software Engineering, demo track, Virtual, 2021, pp.13-16, doi: 10.1109/ICSE-Companion52605.2021.00024. **<font color=red>[CCF-A]</font>**
+* **[WWW]** Yu Zheng, Chen Gao, **Liang Chen**, Yong Li, Depeng Jin, "Diversified Recommendation Through Similarity-Guided Graph Neural Networks", 30th The Web Conference, Slovenia, April 2021, pp.401–412.**<font color=red>[CCF-A]</font>**
+* **[ICDE]** Tao Xie, Yangjun Xu, **Liang Chen\***, Yang Liu, and Zibin Zheng, "Sequential Recommendation on Dynamic Heterogeneous Information Network", IEEE 37th International Conference on Data Engineering, Poster, Chania, Greece, 2021, pp. 2105-2110. **<font color=red>[CCF-A]</font>**
 * **[WSDM]** Yuanzhen Xie, Zijing Ou, **Liang Chen\***, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, "Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network", 14th ACM International Conference on Web Search and Data Mining, Israel, March 8 - 12, 2021, pp.184-192.
-* **[AAAI]** Kai Wang, Zhene Zou, Qilin Deng, Jianrong Tao, Runze Wu, Changjie Fan, **Liang Chen**, Peng Cui, "Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation", 35th AAAI Conference on Artificial Intelligence, Feb 2-9, 2021, online publish.**<font color=red>[CCF-A]</font>**
+* **[AAAI]** Kai Wang, Zhene Zou, Qilin Deng, Jianrong Tao, Runze Wu, Changjie Fan, **Liang Chen**, Peng Cui, "Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation", 35th AAAI Conference on Artificial Intelligence, Vol 35, Issue 5, pp.4427-4435.**<font color=red>[CCF-A]</font>**
 * **[TOIT]** **Liang Chen**, Jiaying Peng, Yang Liu, Jintang Li, Fenfang Xie, Zibin Zheng*, "Phishing Scams Detection in Ethereum Transaction Network", ACM Transactions on Internet Technology, Jan, 2021, Vol 21, Issue 1, pp.10:1-10:16. [[Data]](https://www.kaggle.com/xblock/ethereum-phishing-transaction-network)  
   [SCI Impact Factor=1.6]
 * **[KBS]** Fenfang Xie, Angyu Zheng, **Liang Chen\***, and Zibin Zheng, "Attentive Meta-graph Embedding for Item Recommendation in Heterogeneous Information Networks", Knowledge-based Systems, Jan, 2021, Vol 211, 106524. 
   [SCI Impact Factor=5.9]
-* **[HBAI]** Jintang Li, Zishan Gu, Qibiao Peng, Kun Xu, **Liang Chen\***, and Zibin Zheng, "Deep Insights into Graph Adversarial Learning: An Empirical Study Perspective", Joint Workshop on Human Brain and Artificial Intelligence, in Conjunction With IJCAI-PRICAI 2020, Yokohama, Japan, Jan, 2021, online publish.
+* **[HBAI]** Jintang Li, Zishan Gu, Qibiao Peng, Kun Xu, **Liang Chen\***, and Zibin Zheng, "Deep Insights into Graph Adversarial Learning: An Empirical Study Perspective", In International Workshop on Human Brain and Artificial Intelligence (pp. 87-101). Springer, Singapore.
 
 ### 2020
 
-* **[TKDE]** Yang Liu, **Liang Chen\***, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, "Modelling High-Order Social Relations for Item Recommendation", IEEE Transactions on Knowledge and Data Engineering, online publish, 2020. **<font color=red>[CCF-A]</font>**
+* **[TKDE]** Yang Liu, **Liang Chen\***, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, "Modelling High-Order Social Relations for Item Recommendation", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2020.3039463. **<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=4.9]
 * **[CIKM]** Runze Wu, Hao Deng, Jianrong Tao, Changjie Fan, Qi Liu and **Liang Chen**, "Deep Behavior Tracing with Multi-level Temporality Preserved Embedding", 29th ACM International Conference on Information and Knowledge Management, Applied Research Paper, Oct 19 - 23, 2020, pp.2813-2820.
 * **[CIKM]** Kai Wang, Hao Li, Linxia Gong, Jianrong Tao, Runze Wu, Changjie Fan, **Liang Chen** and Peng Cui, "Match Tracing: A Unified Framework for Real-time Win Prediction and Quantifiable Performance Evaluation", 29th ACM International Conference on Information and Knowledge Management, Applied Research Paper, Oct 19 - 23, 2020, pp.2781-2788.
@@ -49,7 +49,7 @@ date: 2021-06-11 15:56:11
 * **[ECAI]** Yangjun Xu, **Liang Chen\***, Fenfang Xie, Weibo Hu, Jieming Zhu, Chuan Chen, Zibin Zheng, "Directional Adversarial Training for Recommender Systems", 24th European Conference on Artificial Intelligence, Full Paper, Santiago, Spain, June 8-12, 2020, pp.553-560. [[PDF]](/attaches/ECAI_2.pdf)
 * **[KAIS]** Tingting Liang, Lifang He, Chun-Ta Lu, **Liang Chen**, Haochao Ying, Philip S Yu, Jian Wu, "CAMAR: A Broad Learning based Context-Aware Recommender for Mobile Applications", Knowledge and Information Systems, March 2020, Vol 62, pp.3291-3319.
 [SCI Impact Factor=2.9]
-* **[ETT]** **Liang Chen**, Yangjun Xu, Fenfang Xie, Min Huang, Zibin Zheng, "Data Poisoning Attacks on Neighborhood-based Recommender Systems", Transactions on Emerging Telecommunications Technologies, Jan 2020, online publish.
+* **[ETT]** **Liang Chen**, Yangjun Xu, Fenfang Xie, Min Huang, Zibin Zheng, "Data Poisoning Attacks on Neighborhood-based Recommender Systems", Transactions on Emerging Telecommunications Technologies, Vol 32, Issue 6, e3872.
 [SCI Impact Factor=1.6]
 
 ### 2019
@@ -68,7 +68,7 @@ date: 2021-06-11 15:56:11
 [SCI Impact Factor=3.7]
 * **[Complexity]** **Liang Chen**, Fenfang Xie, Zibin Zheng, Yaoming Wu, "Predicting Quality of Service via Leveraging Location Information", Complexity, online publish, 2019.
 [SCI Impact Factor=2.5]
-* **[Access]** Fenfang Xie, **Liang Chen\***, Dongding Lin, Zibin Zheng, Xiaola Lin, "Personalized Service Recommendation with Mashup Group Preference in Heterogeneous Information Network", IEEE Access, Vol7, pp. 16115-16167, 2019.
+* **[Access]** Fenfang Xie, **Liang Chen\***, Dongding Lin, Zibin Zheng, Xiaola Lin, "Personalized Service Recommendation with Mashup Group Preference in Heterogeneous Information Network", IEEE Access, Vol 7, pp.16115-16167, 2019.
 [SCI Impact Factor=3.7]
 
 ### 2018
