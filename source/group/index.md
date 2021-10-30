@@ -18,12 +18,14 @@ date: 2021-06-11 17:04:31
 * Yuanzhen Xie(Master, 2019-2021, Wechat)
 * Xianzhuo Xia(Master, 2019-2021, HuaWei)
 * Yangjun Xu(Master, 2019-2021, China Southern Power Grid)
+* Zengxu Cao(Intership, 2019-2020, Bytedance)
 
 #### Learning
 * Qibiao Peng(Master, 2020-now)
 * Yuansheng Wang(Master, 2020-now)
 * Kun Xu(Master, 2020-now)
 * Tao Xie(Master, 2020-now)
+* Zulun Zhu (RIT Ph.D student, Intership, 2020-now)
 * Ruoting Wu(Master, 2021-now)
 * Jie Liao(Master, 2021-now)
 * Yuxin Zhang(Master, 2021-now)
