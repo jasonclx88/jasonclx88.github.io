@@ -6,7 +6,7 @@ date: 2021-06-11 17:04:31
 <!--![HZ](https://t12.baidu.com/it/u=510893777,1540266527&fm=173&s=E9800F9C5C041AC0662451E603007022&w=640&h=297&img.JPEG)-->
 
 <div align=center>
-<img src="/attaches/rs_group_1.jpg"/>
+<img src="/attaches/rs_group2.png"/>
 </div>
 
 ### Student Member
