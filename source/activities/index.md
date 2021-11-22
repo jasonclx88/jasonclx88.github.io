@@ -9,6 +9,7 @@ date: 2021-06-11 16:12:20
 
 ### Selected Program Committee Member
 
+* KDD: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 * IJCAI: International Joint Conference on Artificial Intelligence.
 * WWW: The Web Conference.
 * SIGIR: International ACM SIGIR Conference on Research and Development in Information Retrieval.
