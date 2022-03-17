@@ -13,6 +13,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 
 ## What's new
+
+* **[KBS-22]</font>** 2022/03/16, Our work on Graph Enhanced Neural Interaction Model has been accepted.
 * **[CIKM-21]</font>** 2021/08/08, Our work on Cross Domain Recommendation has been accepted.
 * **[TOIS-21]</font>** 2021/06/03, My collaboration with researchers in Netease and Tsinghua on Graph Convolutional Network for Recommendation has been accepted.
 * **[IJCAI-21]** 2021/04/29, Our work on structural vulnerability of graph convolutional network has been accepted.
