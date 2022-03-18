@@ -10,7 +10,9 @@ date: 2021-06-11 17:04:31
 </div>
 
 ### Student Member
+
 #### Graduated
+
 * Yang Liu(Master, 2018-2021, Study for Ph.D in Hong Kong University of science and technology)
 * Angyu Zheng (Master, 2018-2021, Wechat)
 * Jintang Li(Master, 2019-2021, Study for Ph.D in Sun Yat-sen University)
@@ -19,13 +21,14 @@ date: 2021-06-11 17:04:31
 * Xianzhuo Xia(Master, 2019-2021, HuaWei)
 * Yangjun Xu(Master, 2019-2021, China Southern Power Grid)
 * Zengxu Cao(Intership, 2019-2020, Bytedance)
+* Zulun Zhu (Intership, 2020-2022,Study for Ph.D in Nanyang Technological University)
 
 #### Learning
+
 * Qibiao Peng(Master, 2020-now)
 * Yuansheng Wang(Master, 2020-now)
 * Kun Xu(Master, 2020-now)
 * Tao Xie(Master, 2020-now)
-* Zulun Zhu (RIT Ph.D student, Intership, 2020-now)
 * Ruoting Wu(Master, 2021-now)
 * Jie Liao(Master, 2021-now)
 * Yuxin Zhang(Master, 2021-now)
