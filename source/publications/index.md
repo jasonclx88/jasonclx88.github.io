@@ -4,6 +4,8 @@ date: 2021-06-11 15:56:11
 ---
 ### 2022
 
+* **[KDD]** Bingzhe Wu, Yatao Bian, Hengtong Zhang, Jintang Li, Junchi Yu, **Liang Chen**, Chaochao Chen, Junzhou Huang, "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection", Washington DC, USA, August 14-18, 2022. [Tutorial]**<font color=red>[CCF-A]</font>**
+* **[IJCAI]** Zulun Zhu, Jiaying Peng, Jintang Li, **Liang Chen\***, Qi Yu, Siqiang Luo, “Spiking Graph Convolutional Networks”, 31th International Joint Conference on Artificial Intelligence, Main Track, Vienna, Australia, July 23-29, 2022, accepted. [Long Oral]**<font color=red>[CCF-A]</font>**
 * **[KBS]** **Liang Chen**, Tao Xie, Jintang Li, and Zibin Zheng, "Graph Enhanced Neural Interaction Model", Knowledge-based Systems, March 2022, accepted.
 [SCI Impact Factor=8.038]**<font color=red>[中科院一区]</font>**
 

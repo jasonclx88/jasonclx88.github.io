@@ -14,9 +14,11 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
-* **[KBS-22]</font>** 2022/03/16, Our work on Graph Enhanced Neural Interaction Model has been accepted.
-* **[CIKM-21]</font>** 2021/08/08, Our work on Cross Domain Recommendation has been accepted.
-* **[TOIS-21]</font>** 2021/06/03, My collaboration with researchers in Netease and Tsinghua on Graph Convolutional Network for Recommendation has been accepted.
+* **[KDD-22]** 2022/05/01, We will give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
+* **[IJCAI-22]** 2022/04/21, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
+* **[KBS-22]** 2022/03/16, Our work on Graph Enhanced Neural Interaction Model has been accepted.
+* **[CIKM-21]** 2021/08/08, Our work on Cross Domain Recommendation has been accepted.
+* **[TOIS-21]** 2021/06/03, My collaboration with researchers in Netease and Tsinghua on Graph Convolutional Network for Recommendation has been accepted.
 * **[IJCAI-21]** 2021/04/29, Our work on structural vulnerability of graph convolutional network has been accepted.
 * **[IJCAI-21]** 2021/04/29, My collaboration with researchers in HKU, UIUC, and Emory on secure graph generation has been accepted.
 * **[TKDE-21]** 2021/04/27, Our work on graph adversarial attack has been accepted.
@@ -28,14 +30,16 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[KDD-22]** Bingzhe Wu, Yatao Bian, Hengtong Zhang, Jintang Li, Junchi Yu, **Liang Chen**, Chaochao Chen, Junzhou Huang, "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection", Washington DC, USA, August 14-18, 2022.
+* **[IJCAI-22]** Zulun Zhu, Jiaying Peng, Jintang Li, **Liang Chen\***, Qi Yu, Siqiang Luo, “Spiking Graph Convolutional Networks”, 31th International Joint Conference on Artificial Intelligence, Main Track, Vienna, Australia, July 23-29, 2022, accepted.
 * **[KBS-22]** **Liang Chen**, Tao Xie, Jintang Li, and Zibin Zheng, "Graph Enhanced Neural Interaction Model", Knowledge-based Systems, March 2022, accepted.
 * **[IJCAI-21]** **Liang Chen**, Jintang Li, Qibiao Peng , Yang Liu, Zibin Zheng, Carl Yang, "Understanding Structural Vulnerability in Graph Convolutional Networks", 30th International Joint Conference on Artificial Intelligence, Main Track, Montreal-themed Virtual Reality, Canada, 2021, pp.2249-2255.
 * **[TKDE-21]** Jintang Li, Tao Xie, **Liang Chen\***, Fenfang Xie, Xiangnan He, Zibin Zheng, "Adversarial Attack on Large Scale Graph", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2021.3078755.
 * **[ICSE-21]** Jintang Li, Kun Xu, **Liang Chen\***, Zibin Zheng and Xiao Liu, "GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software", 43rd International Conference on Software Engineering, demo track, Virtual, 2021, pp.13-16, doi: 10.1109/ICSE-Companion52605.2021.00024.
 * **[ICDE-21]** Tao Xie, Yangjun Xu, **Liang Chen\***, Yang Liu, and Zibin Zheng, "Sequential Recommendation on Dynamic Heterogeneous Information Network", IEEE 37th International Conference on Data Engineering, Poster, Chania, Greece, 2021, pp. 2105-2110.
 * **[TOIT-21]** **Liang Chen**, Jiaying Peng, Yang Liu, Jintang Li, Fenfang Xie, Zibin Zheng\*, "Phishing Scams Detection in Ethereum Transaction Network", ACM Transactions on Internet Technology, 2020, accepted.[[Data]](https://www.kaggle.com/xblock/ethereum-phishing-transaction-network)
-* **[TKDE-20]** Yang Liu, **Liang Chen\***, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, "Modelling High-Order Social Relations for Item Recommendation", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2020.3039463.
+<!-- * **[TKDE-20]** Yang Liu, **Liang Chen\***, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, "Modelling High-Order Social Relations for Item Recommendation", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2020.3039463.
 * **[SIGIR-20]** Yang Liu, Xianzhuo Xia, **Liang Chen\***, Xiangnan He, Carl Yang, Zibin Zheng, "Certifiable Robustness to Discrete Adversarial Perturbations for Factorization Machines", *43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper*, Xi'an, China, July 25-30, 2020, pp.419-428.
 * **[ECAI-20]** Yang Liu, Jiaying Peng, **Liang Chen\***, Zibin Zheng, "Abstract Interpretation based Robustness Certification for Graph Convolutional Networks", *24th European Conference on Artificial Intelligence*, Full Paper, Santiago, Spain, June 8-12, 2020, pp.1309-1315.[[PDF]](/attaches/ECAI_1.pdf)
 * **[ECAI-20]** Yangjun Xu, **Liang Chen\***, Fenfang Xie, Weibo Hu, Jieming Zhu, Chuan Chen, Zibin Zheng, "Directional Adversarial Training for Recommender Systems", 24th European Conference on Artificial Intelligence, Full Paper, Santiago, Spain, June 8-12, 2020, pp.553-560. [[PDF]](/attaches/ECAI_2.pdf)
-* **[IJCAI-19]** **Liang Chen**, Yang Liu, Xiangnan He, Lianli Gao, and Zibin Zheng, "Matching User with Item Set: Collaborative Bundle Recommendation with Attention Network", *IEEE International Joint Conference on Artificial Intelligence*, Macao, China, 2019, pp.2095-2101. [[Code]](https://github.com/yliuSYSU/DAM)
+* **[IJCAI-19]** **Liang Chen**, Yang Liu, Xiangnan He, Lianli Gao, and Zibin Zheng, "Matching User with Item Set: Collaborative Bundle Recommendation with Attention Network", *IEEE International Joint Conference on Artificial Intelligence*, Macao, China, 2019, pp.2095-2101. [[Code]](https://github.com/yliuSYSU/DAM) -->
