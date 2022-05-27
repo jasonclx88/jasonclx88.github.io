@@ -29,3 +29,4 @@ date: 2021-06-11 16:12:20
 * IEEE Transactions on System, Man, and Cybernetics, Part A, TSMC(A)
 * IEEE Transactions on Service Computing, TSC
 * IEEE Transactions on Industrial Informatics, TII
+* IEEE Transactions on Information Forensics & Security, TIFS
