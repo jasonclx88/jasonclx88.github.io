@@ -14,7 +14,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
-* **[KDD-22]** 2022/05/01, We will give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
+* **[KBS-22]** 2022/08/19, Our work on Bundle Recommendation and Hypergraph has been accepted.
+* **[KDD-22]** 2022/08/15, We give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
 * **[IJCAI-22]** 2022/04/21, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
 * **[KBS-22]** 2022/03/16, Our work on Graph Enhanced Neural Interaction Model has been accepted.
 * **[CIKM-21]** 2021/08/08, Our work on Cross Domain Recommendation has been accepted.
