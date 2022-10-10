@@ -14,6 +14,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[FedGraph-22]** 2022/10/21, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
 * **[KBS-22]** 2022/08/19, Our work on Bundle Recommendation and Hypergraph has been accepted.
 * **[KDD-22]** 2022/08/15, We give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
 * **[IJCAI-22]** 2022/04/21, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
@@ -30,6 +31,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[FedGraph-22]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
 * **[KBS-22]** Zhouxin Yu, Jintang Li, **Liang Chen\*** and Zibin Zheng, "Unifying Multi-associations through Hypergraph for Bundle Recommendation",Knowledge-based Systems, August 2022, vol 255, pp. 109755.
 * **[KDD-22]** Bingzhe Wu, Yatao Bian, Hengtong Zhang, Jintang Li, Junchi Yu, **Liang Chen**, Chaochao Chen, Junzhou Huang, "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection", Washington DC, USA, August 14-18, 2022, pp. 4838-4839.
 * **[IJCAI-22]** Zulun Zhu, Jiaying Peng, Jintang Li, **Liang Chen\***, Qi Yu, Siqiang Luo, “Spiking Graph Convolutional Networks”, 31th International Joint Conference on Artificial Intelligence, Main Track, Vienna, Australia, July 23-29, 2022, pp. 2434-2240.
