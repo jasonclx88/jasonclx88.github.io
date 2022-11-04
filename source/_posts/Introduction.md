@@ -14,6 +14,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[TKDE-22]** 2022/11/04, Our work on Spectral Adversarial Training for Robust Graph Neural Network has been accepted.
 * **[FedGraph-22]** 2022/10/21, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
 * **[KBS-22]** 2022/08/19, Our work on Bundle Recommendation and Hypergraph has been accepted.
 * **[KDD-22]** 2022/08/15, We give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
@@ -31,6 +32,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[TKDE-22]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, 2022.
 * **[FedGraph-22]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
 * **[KBS-22]** Zhouxin Yu, Jintang Li, **Liang Chen\*** and Zibin Zheng, "Unifying Multi-associations through Hypergraph for Bundle Recommendation",Knowledge-based Systems, August 2022, vol 255, pp. 109755.
 * **[KDD-22]** Bingzhe Wu, Yatao Bian, Hengtong Zhang, Jintang Li, Junchi Yu, **Liang Chen**, Chaochao Chen, Junzhou Huang, "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection", Washington DC, USA, August 14-18, 2022, pp. 4838-4839.
