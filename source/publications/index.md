@@ -4,9 +4,9 @@ date: 2021-06-11 15:56:11
 ---
 ### 2022
 
-* **[TKDE-22]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, 2022.**<font color=red>[CCF-A]</font>**
+* **[TKDE]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, accepted.**<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=6.977]
-* **[FedGraph-22]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
+* **[FedGraph]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
 * **[KBS]** Zhouxin Yu, Jintang Li, **Liang Chen\*** and Zibin Zheng, "Unifying Multi-associations through Hypergraph for Bundle Recommendation",Knowledge-based Systems, August 2022, , vol 255, pp. 109755.[SCI Impact Factor=8.038]**<font color=red>[中科院一区]</font>**
 * **[KDD]** Bingzhe Wu, Yatao Bian, Hengtong Zhang, Jintang Li, Junchi Yu, **Liang Chen**, Chaochao Chen, Junzhou Huang, "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection", Washington DC, USA, August 14-18, 2022, pp. 4838-4839. [[Slide]](/attaches/twgl.pdf)[Tutorial]**<font color=red>[CCF-A]</font>**
 * **[IJCAI]** Zulun Zhu, Jiaying Peng, Jintang Li, **Liang Chen\***, Qi Yu, Siqiang Luo, “Spiking Graph Convolutional Networks”, 31th International Joint Conference on Artificial Intelligence, Main Track, Vienna, Australia, July 23-29, 2022, pp. 2434-2240. [Long Oral]**<font color=red>[CCF-A]</font>**

@@ -20,15 +20,6 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 * **[KDD-22]** 2022/08/15, We give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
 * **[IJCAI-22]** 2022/04/21, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
 * **[KBS-22]** 2022/03/16, Our work on Graph Enhanced Neural Interaction Model has been accepted.
-* **[CIKM-21]** 2021/08/08, Our work on Cross Domain Recommendation has been accepted.
-* **[TOIS-21]** 2021/06/03, My collaboration with researchers in Netease and Tsinghua on Graph Convolutional Network for Recommendation has been accepted.
-* **[IJCAI-21]** 2021/04/29, Our work on structural vulnerability of graph convolutional network has been accepted.
-* **[IJCAI-21]** 2021/04/29, My collaboration with researchers in HKU, UIUC, and Emory on secure graph generation has been accepted.
-* **[TKDE-21]** 2021/04/27, Our work on graph adversarial attack has been accepted.
-* **[SIGIR-21]** 2021/04/15, My collaboration with researchers in USTC，NUS, and MSRA on self-supervised graph leraning for recommendation has been accepted.
-* **[SIGIR-21]** 2021/04/15, My collaboration with researchers in USTC，Glasgow, and Alibaba on debias for recommendation has been accepted.
-* **[ICSE-21]** 2021/01/22, Our work on GNN benchmarking platform has been accepted.
-* **[WWW-21]** 2021/01/16, My collaboration with researchers in Tsinghua on GNN based recommendation has been accepted.
 
 ## Latest Selected Publications
 
