@@ -11,6 +11,20 @@ date: 2021-06-11 17:04:31
 
 ### Student Member
 
+#### Learning
+
+* Qibiao Peng(Master, 2020-now)
+* Ruoting Wu(Master, 2021-now)
+* Jie Liao(Master, 2021-now)
+* Yuxin Zhang(Master, 2021-now)
+* Zhouxin Yu(Master, 2021-now)
+* Wangbin Sun(Master, 2021-now)
+* Jintang Li(Ph.D, 2021-now)
+* Chuyan Qin(Master, 2022-now)
+* Qichao Wang(Master, 2022-now)
+* Xinzhou Jin(Master, 2022-now)
+* YuChang Zhu(Ph.D, 2022-now)
+
 #### Graduated
 
 * Yang Liu(Master, 2018-2021, Study for Ph.D in Hong Kong University of science and technology)
@@ -22,16 +36,7 @@ date: 2021-06-11 17:04:31
 * Yangjun Xu(Master, 2019-2021, China Southern Power Grid)
 * Zengxu Cao(Intership, 2019-2020, Bytedance)
 * Zulun Zhu (Intership, 2020-2022,Study for Ph.D in Nanyang Technological University)
+* Yuansheng Wang(Master, 2020-2022, Bytedance)
+* Kun Xu(Master, 2020-2022, Bytedance)
+* Tao Xie(Master, 2020-2022, Wechat)
 
-#### Learning
-
-* Qibiao Peng(Master, 2020-now)
-* Yuansheng Wang(Master, 2020-now)
-* Kun Xu(Master, 2020-now)
-* Tao Xie(Master, 2020-now)
-* Ruoting Wu(Master, 2021-now)
-* Jie Liao(Master, 2021-now)
-* Yuxin Zhang(Master, 2021-now)
-* Zhouxin Yu(Master, 2021-now)
-* Wangbin Sun(Master, 2021-now)
-* Jintang Li(Ph.D, 2021-now)

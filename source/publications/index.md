@@ -2,6 +2,12 @@
 title: Publications (Journal & Conference Papers)
 date: 2021-06-11 15:56:11
 ---
+
+### 2023
+
+* **[AAAI]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen**, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, ”Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks“ ,37th AAAI Conference on Artificial Intelligence, 2023, accepted.**<font color=red>[CCF-A]</font>**
+* **[ICDE]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, “Dynamic Aetivation of Clents and Parameters for Federated Learning over Heterogeneous Graphs”, 39th IEEE International Conference on Data Engineering, 2023, accepted.**<font color=red>[CCF-A]</font>**
+  
 ### 2022
 
 * **[TKDE]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, accepted.**<font color=red>[CCF-A]</font>**
@@ -111,7 +117,7 @@ date: 2021-06-11 15:56:11
 [accepted rate = **16%**]
 * **[ICWS]** Tingting Liang, **Liang Chen**, Xingde Ying, Philip S. Yu, Jian Wu, and Zibin Zheng, "Mobile Application Rating Prediction via Feature-Oriented Matrix Factorization", 24th International Conference on Web Services, Research Track, Honolulu, Hawaii, USA, June 25 - June 30, 2017, pp.261-268.
 [accepted rate = **21%**]
-* **[ICDE]** Hongzhi Yin, **Liang Chen**, Weiqing Wang, Xingzhong Du, Quoc Viet Hung Nguyen, Xiaofang Zhou, "Mobi-SAGE: A Sparse Additive Generative Model for Mobile App Recommendation", 33rd International Conference on Data Engineering, San Diego, California, USA, April 19 - 22, 2017, pp. 75-78.
+* **[ICDE]** Hongzhi Yin, **Liang Chen**, Weiqing Wang, Xingzhong Du, Quoc Viet Hung Nguyen, Xiaofang Zhou, "Mobi-SAGE: A Sparse Additive Generative Model for Mobile App Recommendation", 33rd International Conference on Data Engineering, San Diego, California, USA, April 19 - 22, 2017, pp. 75-78.**<font color=red>[CCF-A]</font>**
 * **[PAKDD]** Yuqiang Han, Yao Wan, **Liang Chen**, Guandong Xu, and Jian Wu, "Exploiting Geographical Location for Team Formation in Social Coding Sites", 21th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Long Presentation Paper, Jeju, South Korea, May 23 - 26, 2017, pp.499-510.
 [accepted rate = **9.8%**]
 * **[JWSR]** Li Kuang, Gaofeng Cao,**Liang Chen\***, "Extracting Core Users Based on Features of Users and Their Relationships in Recommender Systems", International Journal of Web Service Research, Volume 14, Issue 2, 2017, pp.1-23.
