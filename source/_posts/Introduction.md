@@ -25,7 +25,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
-* **[AAAI-23]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, ”Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks“ ,37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, Jan 7, 2023 – Feb 14, 2023, accepted.
+* **[AAAI-23]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, ”Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks“ ,37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.
 * **[ICDE-23]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, “Dynamic Aetivation of Clents and Parameters for Federated Learning over Heterogeneous Graphs”, 39th IEEE International Conference on Data Engineering, Anaheim, California, USA, April 3 – 7, 2023, accepted.
 * **[TKDE-22]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, 2022, accepted.
 * **[FedGraph-22]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
