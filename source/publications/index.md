@@ -5,12 +5,12 @@ date: 2021-06-11 15:56:11
 
 ### 2023
 
-* **[AAAI]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, ”Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks“ ,37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.**<font color=red>[CCF-A]</font>**
+* **[AAAI]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks", 37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.**<font color=red>[CCF-A]</font>**
 * **[ICDE]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, “Dynamic Activation of Clents and Parameters for Federated Learning over Heterogeneous Graphs”, 39th IEEE International Conference on Data Engineering, Anaheim, California, USA, April 3 – 7, 2023, accepted.**<font color=red>[CCF-A]</font>**
   
 ### 2022
 
-* **[TKDE]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, accepted.**<font color=red>[CCF-A]</font>**
+* **[TKDE]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2022.3222207.**<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=6.977]
 * **[FedGraph]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
 * **[KBS]** Zhouxin Yu, Jintang Li, **Liang Chen\*** and Zibin Zheng, "Unifying Multi-associations through Hypergraph for Bundle Recommendation",Knowledge-based Systems, August 2022, , vol 255, pp. 109755.[SCI Impact Factor=8.038]**<font color=red>[中科院一区]</font>**
