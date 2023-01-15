@@ -14,6 +14,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[TKDE-23]** 2023/01/15, Our work on Modeling Reviews for Few-shot Recommendation has been accepted.
 * **[AAAI-23]** 2022/11/19, Our work on the use of Spiking Neural Networks to Scale Up Dynamic Graph Representation Learning has been accepted.
 * **[ICDE-23]** 2022/11/19, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
 * **[TKDE-22]** 2022/11/04, Our work on Spectral Adversarial Training for Robust Graph Neural Network has been accepted.
@@ -25,6 +26,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[TKDE-23]** Tingting Liang, Congying Xia, Haoran Xu, Ziqiang Zhao, Yuyu Yin, **Liang Chen**, and Philip S. Yu, "Modeling Reviews for Few-shot Recommendation via Enhanced Prototypical Network", IEEE Transactions on Knowledge and Data Engineering, 2023, accepted.
 * **[AAAI-23]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks", 37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.
 * **[ICDE-23]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clents and Parameters for Federated Learning over Heterogeneous Graphs", 39th IEEE International Conference on Data Engineering, Anaheim, California, USA, April 3 – 7, 2023, accepted.
 * **[TKDE-22]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, 2022, doi: 10.1109/TKDE.2022.3222207.

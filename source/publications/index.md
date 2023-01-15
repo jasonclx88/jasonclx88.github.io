@@ -5,6 +5,7 @@ date: 2021-06-11 15:56:11
 
 ### 2023
 
+* **[TKDE]** Tingting Liang, Congying Xia, Haoran Xu, Ziqiang Zhao, Yuyu Yin, **Liang Chen**, and Philip S. Yu, "Modeling Reviews for Few-shot Recommendation via Enhanced Prototypical Network", IEEE Transactions on Knowledge and Data Engineering, 2023, accepted.
 * **[AAAI]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks", 37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.**<font color=red>[CCF-A]</font>**
 * **[ICDE]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, “Dynamic Activation of Clents and Parameters for Federated Learning over Heterogeneous Graphs”, 39th IEEE International Conference on Data Engineering, Anaheim, California, USA, April 3 – 7, 2023, accepted.**<font color=red>[CCF-A]</font>**
   
