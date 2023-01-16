@@ -18,11 +18,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 * **[AAAI-23]** 2022/11/19, Our work on the use of Spiking Neural Networks to Scale Up Dynamic Graph Representation Learning has been accepted.
 * **[ICDE-23]** 2022/11/19, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
 * **[TKDE-22]** 2022/11/04, Our work on Spectral Adversarial Training for Robust Graph Neural Network has been accepted.
-* **[FedGraph-22]** 2022/10/21, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
-* **[KBS-22]** 2022/08/19, Our work on Bundle Recommendation and Hypergraph has been accepted.
-* **[KDD-22]** 2022/08/15, We give a tutorial about "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection" with our collaborators.
-* **[IJCAI-22]** 2022/04/21, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
-* **[KBS-22]** 2022/03/16, Our work on Graph Enhanced Neural Interaction Model has been accepted.
+
 
 ## Latest Selected Publications
 
