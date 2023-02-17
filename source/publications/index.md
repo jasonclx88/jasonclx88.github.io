@@ -5,6 +5,7 @@ date: 2021-06-11 15:56:11
 
 ### 2023
 
+* **[ICDE]** Yang Liu, Liang Chen*, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, “Modelling High-Order Social Relations for Item Recommendation”, ICDE 2023 TKDE Poster session, Anaheim, California, USA, April 3 – 7, 2023, accepted.**<font color=red>[CCF-A]</font>**
 * **[TKDE]** Tingting Liang, Congying Xia, Haoran Xu, Ziqiang Zhao, Yuyu Yin, **Liang Chen**, and Philip S. Yu, "Modeling Reviews for Few-shot Recommendation via Enhanced Prototypical Network", IEEE Transactions on Knowledge and Data Engineering, 2023, accepted.**<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=6.977]
 * **[AAAI]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks", 37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.**<font color=red>[CCF-A]</font>**

@@ -14,6 +14,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[ICDE-23]** 2023/02/17, Our work on Modelling High-Order Social Relations for Item Recommendation has been accepted.
 * **[TKDE-23]** 2023/01/15, Our work on Modeling Reviews for Few-shot Recommendation has been accepted.
 * **[AAAI-23]** 2022/11/19, Our work on the use of Spiking Neural Networks to Scale Up Dynamic Graph Representation Learning has been accepted.
 * **[ICDE-23]** 2022/11/19, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
@@ -22,6 +23,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[ICDE-23]** Yang Liu, Liang Chen*, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, “Modelling High-Order Social Relations for Item Recommendation”, ICDE 2023 TKDE Poster session, Anaheim, California, USA, April 3 – 7, 2023, accepted.
 * **[TKDE-23]** Tingting Liang, Congying Xia, Haoran Xu, Ziqiang Zhao, Yuyu Yin, **Liang Chen**, and Philip S. Yu, "Modeling Reviews for Few-shot Recommendation via Enhanced Prototypical Network", IEEE Transactions on Knowledge and Data Engineering, 2023, accepted.
 * **[AAAI-23]** Jintang Li, Zhouxin Yu, Zulun Zhu, **Liang Chen\***, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng, "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks", 37th AAAI Conference on Artificial Intelligence, Washington, DC, USA, February 7 – 14, 2023, accepted.
 * **[ICDE-23]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clents and Parameters for Federated Learning over Heterogeneous Graphs", 39th IEEE International Conference on Data Engineering, Anaheim, California, USA, April 3 – 7, 2023, accepted.
