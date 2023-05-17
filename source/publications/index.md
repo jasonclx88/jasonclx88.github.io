@@ -5,6 +5,11 @@ date: 2021-06-11 15:56:11
 
 ### 2023
 
+* **[KDD]** Jintang Li, Ruofan Wu, Wangbin Sun, **Liang Chen\***, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang, "What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders", the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 6th-10th August 2023, Long Beach,CA, accepted. **<font color=red>[CCF-A]</font>**
+* **[IJCAI]** Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, Baokun Wang, Bowen Song, Changhua Meng, Tianyi Zhang, **Liang Chen**, "SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs", The 32nd International Joint Conference on Artificial Intelligence, 19th-25th August 2023, Macao, S.A.R, accepted. **<font color=red>[CCF-A]</font>**
+* **[SIGIR]** Wei Yuan, Quoc Viet Hung Nguyen, Tieke He, **Liang Chen** and Hongzhi Yin, "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures", the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, Taipei, 23-27 July, 2023, accepted. **<font color=red>[CCF-A]</font>**
+* **[TKDE]** Jintang Li, Tao Xie, **Liang Chen\***, Fenfang Xie, Xiangnan He, Zibin Zheng, "Adversarial Attack on Large Scale Graph", IEEE Transactions on Knowledge and Data Engineering,vol. 35, no. 1, pp. 82-95, 1 Jan. 2023, doi: 10.1109/TKDE.2021.3078755. **<font color=red>[CCF-A]</font>**
+  [SCI Impact Factor=6.977]
 * **[ICDE]** Yang Liu, Liang Chen*, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, “Modelling High-Order Social Relations for Item Recommendation”, ICDE 2023 TKDE Poster session, Anaheim, California, USA, April 3 – 7, 2023, accepted.**<font color=red>[CCF-A]</font>**
 * **[TKDE]** Tingting Liang, Congying Xia, Haoran Xu, Ziqiang Zhao, Yuyu Yin, **Liang Chen**, and Philip S. Yu, "Modeling Reviews for Few-shot Recommendation via Enhanced Prototypical Network", IEEE Transactions on Knowledge and Data Engineering, 2023, accepted.**<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=6.977]
@@ -15,8 +20,10 @@ date: 2021-06-11 15:56:11
 
 * **[TKDE]** Jintang Li, Jiaying Peng, **Liang Chen\***, Zibin Zheng, Tingting Liang, Qing Ling, "Spectral Adversarial Training for Robust Graph Neural Network", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2022.3222207.**<font color=red>[CCF-A]</font>**
   [SCI Impact Factor=6.977]
+* **[TKDE]** Yang Liu, **Liang Chen\***, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, "Modelling High-Order Social Relations for Item Recommendation", in IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4385-4397, 1 Sept. 2022, doi: 10.1109/TKDE.2020.3039463.**<font color=red>[CCF-A]</font>**
+  [SCI Impact Factor=6.977]
 * **[FedGraph]** Zishan Gu, Ke Zhang, Guangji Bai, **Liang Chen**, Liang Zhao, Carl Yang, "Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs", The 1st International Workshop on Federated Learning with Graph Data at ACM CIKM, Atlanta, Georgia, United States, Oct 21, 2022.
-* **[KBS]** Zhouxin Yu, Jintang Li, **Liang Chen\*** and Zibin Zheng, "Unifying Multi-associations through Hypergraph for Bundle Recommendation",Knowledge-based Systems, August 2022, , vol 255, pp. 109755.[SCI Impact Factor=8.038]**<font color=red>[中科院一区]</font>**
+* **[KBS]** Zhouxin Yu, Jintang Li, **Liang Chen\*** and Zibin Zheng, "Unifying Multi-associations through Hypergraph for Bundle Recommendation",Knowledge-based Systems, August 2022, vol 255, pp. 109755.[SCI Impact Factor=8.038]**<font color=red>[中科院一区]</font>**
 * **[KDD]** Bingzhe Wu, Yatao Bian, Hengtong Zhang, Jintang Li, Junchi Yu, **Liang Chen**, Chaochao Chen, Junzhou Huang, "Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection", Washington DC, USA, August 14-18, 2022, pp. 4838-4839. [[Slide]](/attaches/twgl.pdf)[Tutorial]**<font color=red>[CCF-A]</font>**
 * **[IJCAI]** Zulun Zhu, Jiaying Peng, Jintang Li, **Liang Chen\***, Qi Yu, Siqiang Luo, “Spiking Graph Convolutional Networks”, 31th International Joint Conference on Artificial Intelligence, Main Track, Vienna, Australia, July 23-29, 2022, pp. 2434-2240. [Long Oral]**<font color=red>[CCF-A]</font>**
 * **[Arxiv]** RuotingWu, Yuxin Zhang, QibiaoPeng, **Liang Chen\***, Zibin Zheng, "A Survey of Deep Learning Models for Structural Code Understanding", arxiv, May 2022.[[PDF]](/attaches/code_survey.pdf)
@@ -30,12 +37,10 @@ date: 2021-06-11 15:56:11
   [SCI Impact Factor=4.479]
 * **[IJCAI]** **Liang Chen**, Jintang Li, Qibiao Peng , Yang Liu, Zibin Zheng, Carl Yang, "Understanding Structural Vulnerability in Graph Convolutional Networks", 30th International Joint Conference on Artificial Intelligence, Main Track, Montreal-themed Virtual Reality, Canada, 2021, pp.2249-2255. **<font color=red>[CCF-A]</font>**
 * **[IJCAI]** Carl Yang, Haonan Wang, Ke Zhang, **Liang Chen**, Lichao Sun, "Secure Graph Generation with Link Privacy", 30th International Joint Conference on Artificial Intelligence, Main Track, Montreal-themed Virtual Reality, Canada, 2021, pp. 3271-3278. **<font color=red>[CCF-A]</font>**
-* **[TKDE]** Jintang Li, Tao Xie, **Liang Chen\***, Fenfang Xie, Xiangnan He, Zibin Zheng, "Adversarial Attack on Large Scale Graph", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2021.3078755. **<font color=red>[CCF-A]</font>**
-  [SCI Impact Factor=6.977]
 * **[SIGIR]** Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, **Liang Chen**, Jianxun Lian, Xing Xie, "Self-supervised Graph Learning for Recommendation", 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper, July 2021, pp. 726–735. **<font color=red>[CCF-A]</font>**
 * **[SIGIR]** Jiawei Chen, Hande Dong, Yang Qiu, Xiangnan He, Xin Xin, **Liang Chen**, Guli Lin, Keping Yang, "AutoDebias: Learning to Debias for Recommendation", 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Research Paper, July 2021, pp. 21–30. **<font color=red>[CCF-A]</font>**
 * **[ASC]** Tingting Liang， Xuan Sheng， Li Zhou， Youhuizi Li， Honghao Gao，Yuyu Yin，**Liang Chen**, "Mobile app recommendation via heterogeneous graph neural network in edge computing", Applied Soft Computing, May, 2021, Vol 103, pp. 107162.
-* **[ICSE]** Jintang Li, Kun Xu, **Liang Chen\***, Zibin Zheng and Xiao Liu, "GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software", 43rd International Conference on Software Engineering, demo track, Virtual, 2021, pp.13-16, doi: 10.1109/ICSE-Companion52605.2021.00024. **<font color=red>[CCF-A]</font>**
+* **[ICSE]** Jintang Li, Kun Xu, **Liang Chen\***, Zibin Zheng and Xiao Liu, "GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software", 43rd International Conference on Software Engineering, demo track, Virtual, 2021, pp. 13-16, doi: 10.1109/ICSE-Companion52605.2021.00024. **<font color=red>[CCF-A]</font>**
 * **[WWW]** Yu Zheng, Chen Gao, **Liang Chen**, Yong Li, Depeng Jin, "Diversified Recommendation Through Similarity-Guided Graph Neural Networks", 30th The Web Conference, Slovenia, April 2021, pp.401–412.**<font color=red>[CCF-A]</font>**
 * **[ICDE]** Tao Xie, Yangjun Xu, **Liang Chen\***, Yang Liu, and Zibin Zheng, "Sequential Recommendation on Dynamic Heterogeneous Information Network", IEEE 37th International Conference on Data Engineering, Poster, Chania, Greece, 2021, pp. 2105-2110. **<font color=red>[CCF-A]</font>**
 * **[WSDM]** Yuanzhen Xie, Zijing Ou, **Liang Chen\***, Yang Liu, Kun Xu, Carl Yang and Zibin Zheng, "Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network", 14th ACM International Conference on Web Search and Data Mining, Israel, March 8 - 12, 2021, pp.184-192.
@@ -48,8 +53,7 @@ date: 2021-06-11 15:56:11
 
 ### 2020
 
-* **[TKDE]** Yang Liu, **Liang Chen\***, Xiangnan He, Jiaying Peng, Zibin Zheng, Jie Tang, "Modelling High-Order Social Relations for Item Recommendation", IEEE Transactions on Knowledge and Data Engineering, doi: 10.1109/TKDE.2020.3039463. **<font color=red>[CCF-A]</font>**
-  [SCI Impact Factor=6.977]
+
 * **[CIKM]** Runze Wu, Hao Deng, Jianrong Tao, Changjie Fan, Qi Liu and **Liang Chen**, "Deep Behavior Tracing with Multi-level Temporality Preserved Embedding", 29th ACM International Conference on Information and Knowledge Management, Applied Research Paper, Oct 19 - 23, 2020, pp. 2813-2820.
 * **[CIKM]** Kai Wang, Hao Li, Linxia Gong, Jianrong Tao, Runze Wu, Changjie Fan, **Liang Chen** and Peng Cui, "Match Tracing: A Unified Framework for Real-time Win Prediction and Quantifiable Performance Evaluation", 29th ACM International Conference on Information and Knowledge Management, Applied Research Paper, Oct 19 - 23, 2020, pp.2781-2788.
 * **[CIKM]** Qilin Deng, Kai Wang, Minghao Zhao, Zhene Zou, Runze Wu, Jianrong Tao, Changjie Fan and **Liang Chen**, "Personalized Bundle Recommendation in Online Games", 29th ACM International Conference on Information and Knowledge Management, Applied Research Paper, Oct 19 - 23, 2020, pp.2381-2388.
