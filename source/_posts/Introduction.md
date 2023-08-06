@@ -14,6 +14,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[CIKM-23]** 2023/08/06, Our work on Structural Augmentation Based Tail Node Representation Learning has been accepted.
+* **[CIKM-23]** 2023/08/06, Our work on Graph Universal Adversarial Defense has been accepted.
 * **[KDD-23]** 2023/05/17, Our work on Understanding Masked Graph Modeling for Graph Autoencoders has been accepted.
 * **[IJCAI-23]** 2023/04/20, Our collaboration with Ant Group on Semi-Supervised Anomaly Detection has been accepted.
 * **[SIGIR-23]** 2023/04/06, Our collaboration with UQ on Federated Recommender Systems has been accepted.
@@ -27,6 +29,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[CIKM-23]** Jie Liao, Jintang Li, **Liang Chen\***, Bingzhe Wu, Yatao Bian and Zibin Zheng, "SAILOR: Structural Augmentation Based Tail Node Representation Learning", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
+* **[CIKM-23]** Jintang Li, Jie Liao, Ruofan Wu, **Liang Chen\***, Zibin Zheng, Jiawang Dan, Changhua Meng and Weiqiang Wang, "GUARD: Graph Universal Adversarial Defense", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[KDD-23]** Jintang Li, Ruofan Wu, Wangbin Sun, **Liang Chen\***, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang, "What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders", the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 6th-10th August 2023, Long Beach,CA, accepted.
 * **[IJCAI-23]** Sheng Tian, Jihai Dong, Jintang Li, Wenlong Zhao, Xiaolong Xu, Baokun Wang, Bowen Song, Changhua Meng, Tianyi Zhang, **Liang Chen**, "SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs", the 32nd International Joint Conference on Artificial Intelligence, 19th-25th August 2023, Macao, S.A.R, accepted.
 * **[SIGIR-23]** Wei Yuan, Quoc Viet Hung Nguyen, Tieke He, **Liang Chen** and Hongzhi Yin, "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures", the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, Taipei, 23-27 July, 2023, accepted.
