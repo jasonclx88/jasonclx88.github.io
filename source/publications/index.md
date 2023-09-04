@@ -5,6 +5,9 @@ date: 2021-06-11 15:56:11
 
 ### 2023
 
+* **[ICDM]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
+* **[CollaborateCom]** Ruoting Wu, Yuxin Zhang,  **Liang Chen\***, "Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree", the 19th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, October 4-6, 2023, Corfu Island, Greece, accepted.
+* **[CollaborateCom]** Yuxin Zhang, Ruoting Wu, Jie Liao, **Liang Chen\***, "Structural Adversarial Attack for Code Representation Models", the 19th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, October 4-6, 2023, Corfu Island, Greece, accepted.
 * **[CIKM]** Jie Liao, Jintang Li, **Liang Chen\***, Bingzhe Wu, Yatao Bian and Zibin Zheng, "SAILOR: Structural Augmentation Based Tail Node Representation Learning", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[CIKM]** Jintang Li, Jie Liao, Ruofan Wu, **Liang Chen\***, Zibin Zheng, Jiawang Dan, Changhua Meng and Weiqiang Wang, "GUARD: Graph Universal Adversarial Defense", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[KDD]** Jintang Li, Ruofan Wu, Wangbin Sun, **Liang Chen\***, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang, "What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders", the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 6th-10th August 2023, Long Beach,CA, accepted. **<font color=red>[CCF-A]</font>**

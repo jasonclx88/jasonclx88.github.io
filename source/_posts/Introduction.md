@@ -14,6 +14,9 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[ICDM-23]** 2023/09/03, Our work on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted.
+* **[CollaborateCom-23]** 2023/09/03, Our work on Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree has been accepted.
+* **[CollaborateCom-23]** 2023/09/03, Our work on Structural Adversarial Attack for Code Representation Models has been accepted.
 * **[CIKM-23]** 2023/08/06, Our work on Structural Augmentation Based Tail Node Representation Learning has been accepted.
 * **[CIKM-23]** 2023/08/06, Our work on Graph Universal Adversarial Defense has been accepted.
 * **[KDD-23]** 2023/05/17, Our work on Understanding Masked Graph Modeling for Graph Autoencoders has been accepted.
@@ -29,6 +32,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[ICDM-23]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
 * **[CIKM-23]** Jie Liao, Jintang Li, **Liang Chen\***, Bingzhe Wu, Yatao Bian and Zibin Zheng, "SAILOR: Structural Augmentation Based Tail Node Representation Learning", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[CIKM-23]** Jintang Li, Jie Liao, Ruofan Wu, **Liang Chen\***, Zibin Zheng, Jiawang Dan, Changhua Meng and Weiqiang Wang, "GUARD: Graph Universal Adversarial Defense", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[KDD-23]** Jintang Li, Ruofan Wu, Wangbin Sun, **Liang Chen\***, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang, "What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders", the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 6th-10th August 2023, Long Beach,CA, accepted.
