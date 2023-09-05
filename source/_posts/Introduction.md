@@ -14,6 +14,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[IJCAI-LLM-23]** 2023/09/04, Our work on How Generative AI Reshapes Digital Shadow Industry has been accepted.
 * **[ICDM-23]** 2023/09/03, Our work on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted.
 * **[CollaborateCom-23]** 2023/09/03, Our work on Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree has been accepted.
 * **[CollaborateCom-23]** 2023/09/03, Our work on Structural Adversarial Attack for Code Representation Models has been accepted.
@@ -32,6 +33,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+* **[IJCAI-LLM-23]** Qichao Wang, Huan Ma, Wentao Wei, Hangyu Li, Changqing Zhang, Peilin Zhao, Binwen Zhao, Bo Hu, Shu Zhang, Bingzhe Wu and  **Liang Chen\***, "Attention Paper: How Generative AI Reshapes Digital Shadow Industry?", IJCAI, Symposium on Large Language Models(LLM 2023), Aug.21, 2023, Macao, China, accepted.
 * **[ICDM-23]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
 * **[CIKM-23]** Jie Liao, Jintang Li, **Liang Chen\***, Bingzhe Wu, Yatao Bian and Zibin Zheng, "SAILOR: Structural Augmentation Based Tail Node Representation Learning", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[CIKM-23]** Jintang Li, Jie Liao, Ruofan Wu, **Liang Chen\***, Zibin Zheng, Jiawang Dan, Changhua Meng and Weiqiang Wang, "GUARD: Graph Universal Adversarial Defense", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
