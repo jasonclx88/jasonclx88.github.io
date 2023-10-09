@@ -14,6 +14,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[EMNLP-23]** 2023/10/07, Our work on Sample-Relation Guided Confidence Calibration over Tabular Data has been accepted.
 * **[ICDM-23]** 2023/09/03, Our work on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted.
 * **[CollaborateCom-23]** 2023/09/03, Our work on Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree has been accepted.
 * **[CollaborateCom-23]** 2023/09/03, Our work on Structural Adversarial Attack for Code Representation Models has been accepted.
@@ -33,7 +34,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
-
+* **[EMNLP-23]** Wang HaoTian, Zhen Zhang, Mengting Hu, Qichao Wang, **Liang Chen**, Yatao Bian, and Bingzhe wu, "RECAL: Sample-Relation Guided Confidence Calibration over Tabular Data", the 2023 Conference on Empirical Methods in Natural Language Processing, Dec 6-10, 2023, Singapore, accepted.
 * **[ICDM-23]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
 * **[CIKM-23]** Jie Liao, Jintang Li, **Liang Chen\***, Bingzhe Wu, Yatao Bian and Zibin Zheng, "SAILOR: Structural Augmentation Based Tail Node Representation Learning", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.
 * **[CIKM-23]** Jintang Li, Jie Liao, Ruofan Wu, **Liang Chen\***, Zibin Zheng, Jiawang Dan, Changhua Meng and Weiqiang Wang, "GUARD: Graph Universal Adversarial Defense", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.

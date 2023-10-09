@@ -5,6 +5,7 @@ date: 2021-06-11 15:56:11
 
 ### 2023
 
+* **[EMNLP]** Wang HaoTian, Zhen Zhang, Mengting Hu, Qichao Wang, **Liang Chen**, Yatao Bian, and Bingzhe wu, "RECAL: Sample-Relation Guided Confidence Calibration over Tabular Data", the 2023 Conference on Empirical Methods in Natural Language Processing, Dec 6-10, 2023, Singapore, accepted.
 * **[ICDM]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
 * **[CollaborateCom]** Ruoting Wu, Yuxin Zhang,  **Liang Chen\***, "Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree", the 19th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, October 4-6, 2023, Corfu Island, Greece, accepted.
 * **[CollaborateCom]** Yuxin Zhang, Ruoting Wu, Jie Liao, **Liang Chen\***, "Structural Adversarial Attack for Code Representation Models", the 19th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, October 4-6, 2023, Corfu Island, Greece, accepted.
