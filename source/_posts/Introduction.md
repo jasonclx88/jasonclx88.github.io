@@ -14,26 +14,30 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[WWW-24]** 2024/1/23, our work on "Fair Graph Representation Learning via Sensitive Attribute Disentanglement" has been accepted.
+* **[ICLR-24]** 2024/1/16, Our work on "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks" has been accepted.
+* **[WSDM-23]** 2023/10/20, Our two works on "The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation" and "Rethinking and Simplifying Bootstrapped Graph Latents" have been accepted.
 * **[EMNLP-23]** 2023/10/07, Our work on Sample-Relation Guided Confidence Calibration over Tabular Data has been accepted.
 * **[ICDM-23]** 2023/09/03, Our work on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted.
-* **[CollaborateCom-23]** 2023/09/03, Our work on Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree has been accepted.
-* **[CollaborateCom-23]** 2023/09/03, Our work on Structural Adversarial Attack for Code Representation Models has been accepted.
-* **[CIKM-23]** 2023/08/06, Our work on Structural Augmentation Based Tail Node Representation Learning has been accepted.
-* **[CIKM-23]** 2023/08/06, Our work on Graph Universal Adversarial Defense has been accepted.
+* **[CollaborateCom-23]** 2023/09/03, Our two works on "Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree" and "Structural Adversarial Attack for Code Representation Models" have been accepted.
+* **[CIKM-23]** 2023/08/06, Our two works on "Structural Augmentation Based Tail Node Representation Learning" and "Graph Universal Adversarial Defense" have been accepted.
 * **[KDD-23]** 2023/05/17, Our work on Understanding Masked Graph Modeling for Graph Autoencoders has been accepted.
 * **[IJCAI-LLM-23]** 2023/04/20, Our work on How Generative AI Reshapes Digital Shadow Industry has been accepted.
 * **[IJCAI-23]** 2023/04/20, Our collaboration with Ant Group on Semi-Supervised Anomaly Detection has been accepted.
 * **[SIGIR-23]** 2023/04/06, Our collaboration with UQ on Federated Recommender Systems has been accepted.
 * **[ICDE-23]** 2023/02/17, Our work on Modelling High-Order Social Relations for Item Recommendation has been accepted.
-* **[TKDE-23]** 2023/01/15, Our work on Modeling Reviews for Few-shot Recommendation has been accepted.
-* **[TKDE-23]** 2023/01/01, Our work on Adversarial Attack on Large Scale Graph has been published.
+* **[TKDE-23]** 2023/01/15, Our work on Modeling Reviews for Few-shot Recommendation and Adversarial Attack on Large Scale Graph have been accepted.
 * **[AAAI-23]** 2022/11/19, Our work on the use of Spiking Neural Networks to Scale Up Dynamic Graph Representation Learning has been accepted.
 * **[ICDE-23]** 2022/11/19, Our work on Federated Learning over Heterogeneous Graphs has been accepted.
-* **[TKDE-22]** 2022/11/04, Our work on Spectral Adversarial Training for Robust Graph Neural Network has been accepted.
+<!-- * **[TKDE-22]** 2022/11/04, Our work on Spectral Adversarial Training for Robust Graph Neural Network has been accepted. -->
 
 
 ## Latest Selected Publications
 
+* **[WWW-24]** Yuchang Zhu, Jintang Li, Zibin Zheng, **Liang Chen***. "Fair Graph Representation Learning via Sensitive Attribute Disentanglement", In Proceedings of International World Wide Web Conference, May 13th-17th, Singapore, accepted.
+* **[ICLR-24]** Jintang Li, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, **Liang Chen***. "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks", In Proceedings of International Conference on Learning Representations, May 7th-11th, 2024, Vienna, Austria, accepted.
+* **[WSDM-23]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng. “The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation”, the 17th ACM International Conference Web Search and Data Mining, Mar 4th–8th, 2024, Mexico, accepted.
+* **[WSDM-23]** Wangbin Sun, Jintang Li, **Liang Chen***, Yatao Bian, Bingzhe wu, and Zibin Zheng. “Rethinking and Simplifying Bootstrapped Graph Latents”, the 17th ACM International Conference Web Search and Data Mining, Mar 4th–8th, 2024, Mexico, accepted.
 * **[EMNLP-23]** Wang HaoTian, Zhen Zhang, Mengting Hu, Qichao Wang, **Liang Chen**, Yatao Bian, and Bingzhe wu, "RECAL: Sample-Relation Guided Confidence Calibration over Tabular Data", the 2023 Conference on Empirical Methods in Natural Language Processing, Dec 6-10, 2023, Singapore, accepted.
 * **[ICDM-23]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
 * **[CIKM-23]** Jie Liao, Jintang Li, **Liang Chen\***, Bingzhe Wu, Yatao Bian and Zibin Zheng, "SAILOR: Structural Augmentation Based Tail Node Representation Learning", the 32nd ACM International Conference on Information and Knowledge Management, 21th-25th October, Birmingham, United Kingdom, accepted.

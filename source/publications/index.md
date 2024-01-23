@@ -3,8 +3,15 @@ title: Publications (Journal & Conference Papers)
 date: 2021-06-11 15:56:11
 ---
 
+### 2024
+
+* **[WWW]** Yuchang Zhu, Jintang Li, Zibin Zheng, **Liang Chen***. "Fair Graph Representation Learning via Sensitive Attribute Disentanglement", In Proceedings of International World Wide Web Conference, May 13th-17th, Singapore, accepted. **<font color=red>[CCF-A]</font>**
+* **[ICLR]** Jintang Li, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, **Liang Chen***. "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks", In Proceedings of International Conference on Learning Representations, May 7th-11th, 2024, Vienna, Austria, accepted. **<font color=red>[CCF-A]</font>**
+
 ### 2023
 
+* **[WSDM]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng. “The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation”, the 17th ACM International Conference Web Search and Data Mining, Mar 4th–8th, 2024, Mexico, accepted.
+* **[WSDM]** Wangbin Sun, Jintang Li, **Liang Chen***, Yatao Bian, Bingzhe wu, and Zibin Zheng. “Rethinking and Simplifying Bootstrapped Graph Latents”, the 17th ACM International Conference Web Search and Data Mining, Mar 4th–8th, 2024, Mexico, accepted.
 * **[EMNLP]** Wang HaoTian, Zhen Zhang, Mengting Hu, Qichao Wang, **Liang Chen**, Yatao Bian, and Bingzhe wu, "RECAL: Sample-Relation Guided Confidence Calibration over Tabular Data", the 2023 Conference on Empirical Methods in Natural Language Processing, Dec 6-10, 2023, Singapore, accepted.
 * **[ICDM]** Xinzhou Jin, Jintang Li, Yuanzhen Xie, **Liang Chen\***, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng, "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding", the 23rd IEEE International Conference on Data Mining, December 1-4, 2023, Shanghai, China, accepted.
 * **[CollaborateCom]** Ruoting Wu, Yuxin Zhang,  **Liang Chen\***, "Improving Code Representation Learning via Multi-view Contrastive Graph Pooling for Abstract Syntax Tree", the 19th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, October 4-6, 2023, Corfu Island, Greece, accepted.
