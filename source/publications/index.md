@@ -5,6 +5,8 @@ date: 2021-06-11 15:56:11
 
 ### 2024
 
+* **[TCSS]** Fenfang Xie, Yuansheng Wang, Kun Xu, **Liang Chen**, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, March 2024, accepted.
+  [SCI Impact Factor=5.0]
 * **[WWW]** Yuchang Zhu, Jintang Li, Zibin Zheng, **Liang Chen***. "Fair Graph Representation Learning via Sensitive Attribute Disentanglement", In Proceedings of International World Wide Web Conference, May 13th-17th, Singapore, accepted. **<font color=red>[CCF-A]</font>**
 * **[ICLR]** Jintang Li, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, **Liang Chen***. "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks", In Proceedings of International Conference on Learning Representations, May 7th-11th, 2024, Vienna, Austria, accepted. **<font color=red>[CCF-A]</font>**
 

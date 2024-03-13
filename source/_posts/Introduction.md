@@ -14,8 +14,9 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[TCSS-24]** 2024/3/11, our work on "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation" has been accepted.
 * **[WWW-24]** 2024/1/23, our work on "Fair Graph Representation Learning via Sensitive Attribute Disentanglement" has been accepted.
-* **[ICLR-24]** 2024/1/16, Our work on "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks" has been accepted.
+* **[ICLR-24]** 2024/1/16, our work on "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks" has been accepted.
 <!-- * **[WSDM-23]** 2023/10/20, Our two works on "The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation" and "Rethinking and Simplifying Bootstrapped Graph Latents" have been accepted.
 * **[EMNLP-23]** 2023/10/07, Our work on Sample-Relation Guided Confidence Calibration over Tabular Data has been accepted.
 * **[ICDM-23]** 2023/09/03, Our work on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted.
@@ -34,6 +35,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
+
+* **[TCSS-24]** Fenfang Xie, Yuansheng Wang, Kun Xu, **Liang Chen**, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, March 2024, accepted.
 * **[WWW-24]** Yuchang Zhu, Jintang Li, Zibin Zheng, **Liang Chen***. "Fair Graph Representation Learning via Sensitive Attribute Disentanglement", In Proceedings of International World Wide Web Conference, May 13th-17th, Singapore, accepted.
 * **[ICLR-24]** Jintang Li, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, **Liang Chen***. "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks", In Proceedings of International Conference on Learning Representations, May 7th-11th, 2024, Vienna, Austria, accepted.
 * **[WSDM-23]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng. “The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation”, the 17th ACM International Conference Web Search and Data Mining, Mar, 2024, pp. 1012-1021.
