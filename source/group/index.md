@@ -13,7 +13,7 @@ date: 2021-06-11 17:04:31
 
 #### Learning
 
-* Qibiao Peng(Master, 2020-now)
+
 * Ruoting Wu(Master, 2021-now)
 * Jie Liao(Master, 2021-now)
 * Yuxin Zhang(Master, 2021-now)
@@ -24,6 +24,9 @@ date: 2021-06-11 17:04:31
 * Qichao Wang(Master, 2022-now)
 * Xinzhou Jin(Master, 2022-now)
 * YuChang Zhu(Ph.D, 2022-now)
+* Ying Zhen(Master, 2023-now)
+* Yun Fu(Master, 2023-now)
+* QianQian Chen(Master, 2023-now)
 
 #### Graduated
 
@@ -39,4 +42,5 @@ date: 2021-06-11 17:04:31
 * Yuansheng Wang(Master, 2020-2022, Bytedance)
 * Kun Xu(Master, 2020-2022, Bytedance)
 * Tao Xie(Master, 2020-2022, Wechat)
+* Qibiao Peng(Master, 2020-2023, Ant group)
 
