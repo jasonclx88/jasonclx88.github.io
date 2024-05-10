@@ -11,7 +11,7 @@ date: 2021-06-11 16:12:26
 
 ### Office
 
-* Room 406, JIE Building,
+* Room A318, Computer College Building,
 * Sun Yat-Sen Univ. (East Campus),
 * Guangzhou, China 510007
 
@@ -22,6 +22,6 @@ date: 2021-06-11 16:12:26
 ### Mailing address
 
 * Liang Chen
-* Room 406, JIE Building
+* Room 406, Computer College Building
 * Sun Yat-Sen Univ. (East Campus)
 * Guangzhou, 510007, China

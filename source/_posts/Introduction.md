@@ -14,6 +14,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## What's new
 
+* **[ICML-24]** 2024/05/02, our work on "Parameter-Efficient Fine-Tuning with Discrete Fourier Transform" has been accepted.
+* **[TCSS-24]** 2024/04/04, our work on "FairAGG: Towards Fair Graph Neural Networks via Fair Aggregation" has been accepted.
 * **[TCSS-24]** 2024/3/11, our work on "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation" has been accepted.
 * **[WWW-24]** 2024/1/23, our work on "Fair Graph Representation Learning via Sensitive Attribute Disentanglement" has been accepted.
 * **[ICLR-24]** 2024/1/16, our work on "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks" has been accepted.
@@ -35,8 +37,9 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
-
-* **[TCSS-24]** Fenfang Xie, Yuansheng Wang, Kun Xu, **Liang Chen**, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, March 2024, accepted.
+* **[ICML-24]** Ziqi Gao, Qichao Wang, Aochuan Chen, Zijing Liu, Bingzhe Wu, **Liang Chen**, Jia Li. “Parameter-Efficient Fine-Tuning with Discrete Fourier Transform”, The Forty-first International Conference on Machine Learning, Messe Wien Exhibition Congress Center, Vienna, Austria, July 2024, accepted.
+* **[TCSS-24]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, April 2024, accepted.
+* **[TCSS-24]** Fenfang Xie, Yuansheng Wang, Kun Xu, **Liang Chen***, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, March 2024, accepted.
 * **[WWW-24]** Yuchang Zhu, Jintang Li, Zibin Zheng, **Liang Chen***. "Fair Graph Representation Learning via Sensitive Attribute Disentanglement", In Proceedings of International World Wide Web Conference, May 13th-17th, Singapore, accepted.
 * **[ICLR-24]** Jintang Li, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, **Liang Chen***. "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks", In Proceedings of International Conference on Learning Representations, May 7th-11th, 2024, Vienna, Austria, accepted.
 * **[WSDM-23]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng. “The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation”, the 17th ACM International Conference Web Search and Data Mining, Mar, 2024, pp. 1012-1021.
