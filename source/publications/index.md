@@ -6,7 +6,7 @@ date: 2021-06-11 15:56:11
 ### 2024
 
 * **[ICML]** Ziqi Gao, Qichao Wang, Aochuan Chen, Zijing Liu, Bingzhe Wu, **Liang Chen**, Jia Li. “Parameter-Efficient Fine-Tuning with Discrete Fourier Transform”, The Forty-first International Conference on Machine Learning, Messe Wien Exhibition Congress Center, Vienna, Austria, July 2024, accepted.**<font color=red>[CCF-A]</font>**
-* **[TCSS]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, April 2024, accepted.
+* **[TCSS]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng, Mingdong Tang. "FairAGG: Towards Fair Graph Neural Networks via Fair Aggregation", IEEE Transactions on Computational Social Systems, April 2024, accepted.
   [SCI Impact Factor=5.0]
 * **[TCSS]** Fenfang Xie, Yuansheng Wang, Kun Xu, **Liang Chen***, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, March 2024, accepted.
   [SCI Impact Factor=5.0]
