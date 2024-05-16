@@ -38,7 +38,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 ## Latest Selected Publications
 
-* **[ACL-24]** Yuanzhen Xie, Xinzhou Jin, Tao Xie, MingXiong Lin, **Liang Chen**, Chenyun Yu, Lei Cheng, ChengXiang Zhuo, Bo Hu, Zang Li. "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm", In the Findings of 62nd Annual Meeting of the Association for Computational Linguistics. Bangkok, Thailand. August 11th to 16th, 2024, accepted.
+* **[ACL-24]** Yuanzhen Xie, Xinzhou Jin, Tao Xie, MingXiong Lin, **Liang Chen**, Chenyun Yu, Lei Cheng, ChengXiang Zhuo, Bo Hu, Zang Li. "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm", The 62nd Annual Meeting of the Association for Computational Linguistics. Bangkok, Thailand. August 11th to 16th, 2024, accepted.
 * **[ICML-24]** Ziqi Gao, Qichao Wang, Aochuan Chen, Zijing Liu, Bingzhe Wu, **Liang Chen**, Jia Li. “Parameter-Efficient Fine-Tuning with Discrete Fourier Transform”, The Forty-first International Conference on Machine Learning, Messe Wien Exhibition Congress Center, Vienna, Austria, July 2024, accepted.
 * **[TCSS-24]** Yuchang Zhu, Jintang Li, **Liang Chen***, Zibin Zheng, Mingdong Tang. "FairAGG: Towards Fair Graph Neural Networks via Fair Aggregation", IEEE Transactions on Computational Social Systems, April 2024, accepted.
 * **[TCSS-24]** Fenfang Xie, Yuansheng Wang, Kun Xu, **Liang Chen***, Zibin Zheng, Mingdong Tang. "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation", IEEE Transactions on Computational Social Systems, March 2024, accepted.
