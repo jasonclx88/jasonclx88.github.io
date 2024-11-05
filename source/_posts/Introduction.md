@@ -13,7 +13,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 
 ## What's new
-
+* **[NeurIPS-2024 Workshop on Audio Imagination]** 2024/10/17, our work on “Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers” has been accepted.
+* **[NeurIPS-2024]** 2024/09/26, our work on "State Space Models on Temporal Graphs: A First-Principles Study" has been accepted.
 * **[KDD-24]** 2024/05/17, our work on "One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes" has been accepted.
 * **[KDD-24]** 2024/05/17, our collaboration with Ant Group on "Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective" has been accepted.
 * **[ACL-24]** 2024/05/16, our collaboration with Tencent on "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm" has been accepted.

@@ -4,8 +4,8 @@ date: 2021-06-11 15:56:11
 ---
 
 ### 2024
-
-
+* **[NeurIPS Workshop on Audio Imagination]** Ziqiao Meng, Qichao Wang, Wenqian Cui, Yifei Zhang, Bingzhe Wu, Irwin King, **Liang Chen\***, Peilin Zhao. "Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers", the 38th Annual Conference on Neural Information Processing Systemshas, Vancouver, December 10th-15th, 2024, accepted.**<font color=red>[CCF-A]</font>**
+* **[NeurIPS]** Jintang Li, Ruofan Wu, Xinzhou Jin, Boqun Ma, Liang Chen, Zibin Zheng, **Liang Chen\***. "State Space Models on Temporal Graphs: A First-Principles Study", the 38th Annual Conference on Neural Information Processing Systemshas, Vancouver, December 10th-15th, 2024, accepted.**<font color=red>[CCF-A]</font>**
 * **[KDD]** Yuchang Zhu, Jintang Li, Yatao Bian, Zibin Zheng, **Liang Chen\***. “One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes”, the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, August 25th-29th, 2024, accepted.**<font color=red>[CCF-A]</font>**
 * **[KDD]** Yunfei Liu, Jintang Li, Yuehe Chen, Ruofan Wu, Baokun Wang, Jing Zhou, Sheng Tian, Shuheng Shen, Xing Fu, Changhua Meng, Weiqiang Wang, **Liang Chen**. “Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective”, the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, August 25th-29th, 2024, accepted.**<font color=red>[CCF-A]</font>**
 * **[ACL]** Yuanzhen Xie, Xinzhou Jin, Tao Xie, MingXiong Lin, **Liang Chen**, Chenyun Yu, Lei Cheng, ChengXiang Zhuo, Bo Hu, Zang Li. "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm", The 62nd Annual Meeting of the Association for Computational Linguistics. Bangkok, Thailand. August 11th to 16th, 2024, accepted.**<font color=red>[CCF-A]</font>**
