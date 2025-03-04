@@ -13,6 +13,7 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 
 ## What's new
+* **[Knowledge-Based Systems]** 2025/01/16, our work on "Long-term evolutionary patterns matter: Self-supervised anomaly detection on dynamic graphs" has been accepted.
 * **[NeurIPS-2024 Workshop on Audio Imagination]** 2024/10/17, our work on “Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers” has been accepted.
 * **[NeurIPS-2024]** 2024/09/26, our work on "State Space Models on Temporal Graphs: A First-Principles Study" has been accepted.
 * **[KDD-24]** 2024/05/17, our work on "One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes" has been accepted.

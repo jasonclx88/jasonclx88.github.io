@@ -2,6 +2,9 @@
 title: Publications (Journal & Conference Papers)
 date: 2021-06-11 15:56:11
 ---
+### 2025
+
+* **[KBS]** Yun Fu, Che Zhou, Jintang Li, **Liang Chen\***. "Long-term evolutionary patterns matter: Self-supervised anomaly detection on dynamic graphs", Knowledge-Based Systems, January 2025, accepted.
 
 ### 2024
 * **[NeurIPS Workshop on Audio Imagination]** Ziqiao Meng, Qichao Wang, Wenqian Cui, Yifei Zhang, Bingzhe Wu, Irwin King, **Liang Chen\***, Peilin Zhao. "Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers", the 38th Annual Conference on Neural Information Processing Systemshas, Vancouver, December 10th-15th, 2024, accepted.**<font color=red>[CCF-A]</font>**
