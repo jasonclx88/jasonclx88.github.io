@@ -2,8 +2,8 @@
 title: Publications (Journal & Conference Papers)
 date: 2021-06-11 15:56:11
 ---
-### 2025
 
+### 2025
 * **[KBS]** Yun Fu, Che Zhou, Jintang Li, **Liang Chen\***. "Long-term evolutionary patterns matter: Self-supervised anomaly detection on dynamic graphs", Knowledge-Based Systems, January 2025, accepted.
 
 ### 2024
