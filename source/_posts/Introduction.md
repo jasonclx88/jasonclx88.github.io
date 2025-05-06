@@ -13,6 +13,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 
 ## What's new
+* **[ICML-25]** 2025/07/13, our work on "Measuring Diversity in Synthetic Datasets" has been accepted.
+* **[ICML-25]** 2025/07/13, our work on "Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning" has been accepted.
 * **[Knowledge-Based Systems]** 2025/01/16, our work on "Long-term evolutionary patterns matter: Self-supervised anomaly detection on dynamic graphs" has been accepted.
 * **[NeurIPS-2024 Workshop on Audio Imagination]** 2024/10/17, our work on “Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers” has been accepted.
 * **[NeurIPS-2024]** 2024/09/26, our work on "State Space Models on Temporal Graphs: A First-Principles Study" has been accepted.
@@ -21,9 +23,9 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 * **[ACL-24]** 2024/05/16, our collaboration with Tencent on "Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm" has been accepted.
 * **[ICML-24]** 2024/05/02, our collaboration with HKUST and Tencent on "Parameter-Efficient Fine-Tuning with Discrete Fourier Transform" has been accepted.
 * **[TCSS]** 2024/04/04, our work on "FairAGG: Towards Fair Graph Neural Networks via Fair Aggregation" has been accepted.
-* **[TCSS]** 2024/3/11, our work on "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation" has been accepted.
-* **[WWW-24]** 2024/1/23, our work on "Fair Graph Representation Learning via Sensitive Attribute Disentanglement" has been accepted.
-* **[ICLR-24]** 2024/1/16, our work on "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks" has been accepted.
+* **[TCSS]** 2024/03/11, our work on "A Review-level Sentiment Information Enhanced Multi-task Learning Approach for Explainable Recommendation" has been accepted.
+* **[WWW-24]** 2024/01/23, our work on "Fair Graph Representation Learning via Sensitive Attribute Disentanglement" has been accepted.
+* **[ICLR-24]** 2024/01/16, our work on "A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks" has been accepted.
 <!-- * **[WSDM-23]** 2023/10/20, Our two works on "The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation" and "Rethinking and Simplifying Bootstrapped Graph Latents" have been accepted.
 * **[EMNLP-23]** 2023/10/07, Our work on Sample-Relation Guided Confidence Calibration over Tabular Data has been accepted.
 * **[ICDM-23]** 2023/09/03, Our work on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted.

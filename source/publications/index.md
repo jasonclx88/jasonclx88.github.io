@@ -4,6 +4,8 @@ date: 2021-06-11 15:56:11
 ---
 
 ### 2025
+* **[ICML]** Yuchang Zhu, Huizhe Zhang, Bingzhe Wu, Jintang Li, Zibin Zheng, Peilin Zhao, **Liang Chen\***, Yatao Bian. “Measuring Diversity in Synthetic Datasets”, The Forty-Second International Conference on Machine Learning, Vancouver Convention Center, Vancouver, Canada, July 2025, accepted.**<font color=red>[CCF-A]</font>**
+* **[ICML]** Qichao Wang, Ziqiao Meng, Wenqian Cui, Yifei Zhang, Pengcheng Wu, Bingzhe Wu, Irwin King, **Liang Chen\***, Peilin Zhao. “Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning”, The Forty-Second International Conference on Machine Learning, Vancouver Convention Center, Vancouver, Canada, July 2025, accepted.**<font color=red>[CCF-A]</font>**
 * **[KBS]** Yun Fu, Che Zhou, Jintang Li, **Liang Chen\***. "Long-term evolutionary patterns matter: Self-supervised anomaly detection on dynamic graphs", Knowledge-Based Systems, January 2025, accepted.
 
 ### 2024
