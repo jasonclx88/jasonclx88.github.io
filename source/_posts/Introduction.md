@@ -13,8 +13,9 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 
 ## What's new
-* **[ICML-25]** 2025/07/13, our work on "Measuring Diversity in Synthetic Datasets" has been accepted.
-* **[ICML-25]** 2025/07/13, our work on "Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning" has been accepted.
+* **[TPAMI-25]** 2025/05/19, our work on "Heterophily-aware Representation Learning on Heterogenerous Graphs" has been accepted.
+* **[ICML-25]** 2025/05/01, our work on "Measuring Diversity in Synthetic Datasets" has been accepted.
+* **[ICML-25]** 2025/05/01, our work on "Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning" has been accepted.
 * **[Knowledge-Based Systems]** 2025/01/16, our work on "Long-term evolutionary patterns matter: Self-supervised anomaly detection on dynamic graphs" has been accepted.
 * **[NeurIPS-2024 Workshop on Audio Imagination]** 2024/10/17, our work on “Parrot: Autoregressive Spoken Dialogue Language Modeling with Decoder-only Transformers” has been accepted.
 * **[NeurIPS-2024]** 2024/09/26, our work on "State Space Models on Temporal Graphs: A First-Principles Study" has been accepted.
