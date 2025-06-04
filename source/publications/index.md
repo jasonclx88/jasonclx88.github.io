@@ -4,7 +4,7 @@ date: 2021-06-11 15:56:11
 ---
 
 ### 2025
-* **[KBS]** Qianqian Chen，Jintang Li, **Liang Chen\***. "Capturing Latent Evolution in Dynamic Graph: A Dual-view Architecture from Spectral Perspective", Knowledge-Based Systems, June 2025, accepted.
+* **[KBS]** Qianqian Chen, Jintang Li, **Liang Chen\***. "Capturing Latent Evolution in Dynamic Graph: A Dual-view Architecture from Spectral Perspective", Knowledge-Based Systems, June 2025, accepted.
 * **[TPAMI]** Jintang Li, Zheng Wei, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Zibin Zheng, **Liang Chen\***. “Heterophily-aware Representation Learning on Heterogenerous Graphs”, IEEE Transactions on Pattern Analysis and Machine Intelligence, May 2025, accepted.**<font color=red>[CCF-A]</font>**
 * **[KBS]** Ying Zhen, YuChang Zhu, Jintang Li, **Liang Chen\***. "FairDLA: Improving the fairness-utility trade-off in graph neural netwo via dual-level alignment, Knowledge-Based Systems, May accepted.
 * **[ICML]** Yuchang Zhu, Huizhe Zhang, Bingzhe Wu, Jintang Li, Zibin Zheng, Peilin Zhao, **Liang Chen\***, Yatao Bian. “Measuring Diversity in Synthetic Datasets”, The Forty-Second International Conference on Machine Learning, Vancouver Convention Center, Vancouver, Canada, July 2025, accepted.**<font color=red>[CCF-A]</font>**
