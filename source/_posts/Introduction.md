@@ -13,6 +13,8 @@ Dr. Liang Chen is currently an Associate Professor at [School of Computer Scienc
 
 
 ## What's new
+* **[TKDE-25]** 2025/11/24, our work on "SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding" has been accepted.
+* **[AAAI-26]** 2025/11/8, our work on "GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization" has been accepted.
 * **[Knowledge-Based Systems]** 2025/06/02, our work on "Capturing Latent Evolution in Dynamic Graph: A Dual-view Architecture from Spectral Perspective" has been accepted.
 * **[TPAMI-25]** 2025/05/19, our work on "Heterophily-aware Representation Learning on Heterogenerous Graphs" has been accepted.
 * **[Knowledge-Based Systems]** 2025/05/13, our work on "FairDLA: Improving the fairness-utility trade-off in graph neural netwo via dual-level alignment" has been accepted.
