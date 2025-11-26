@@ -109,4 +109,5 @@ deploy:
   repository: git@github.com:jasonclx88/jasonclx88.github.io.git
   # repository: git@github.com:zhanghaha1707/zhanghaha1707.github.io.git
   branch: master
+  force: true
   # branch: pages
