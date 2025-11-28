@@ -4,6 +4,8 @@ date: 2021-06-11 15:56:11
 ---
 
 ### 2025
+* **[TKDE]** Yuchang Zhu, Jintang Li, Huizhe Zhang, **Liang Chen\***, Zibin Zheng. “SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding”, IEEE Transactions on Knowledge and Data Engineering, November 2025, accepted. **<font color=red>[CCF-A]</font>**
+* **[AAAI]** Huizhe Zhang, Jintang Li, Yuchang Zhu, Huazhen Zhong, **Liang Chen\***. GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization, The 40th Annual AAAI Conference on Artificial Intelligence, Singapore EXPO, Singapore, January 2026, accepted. **<font color=red>[CCF-A]</font>**
 * **[KBS]** Qianqian Chen, Jintang Li, **Liang Chen\***. "Capturing Latent Evolution in Dynamic Graph: A Dual-view Architecture from Spectral Perspective", Knowledge-Based Systems, June 2025, accepted.
 * **[TPAMI]** Jintang Li, Zheng Wei, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Zibin Zheng, **Liang Chen\***. “Heterophily-aware Representation Learning on Heterogenerous Graphs”, IEEE Transactions on Pattern Analysis and Machine Intelligence, May 2025, accepted.**<font color=red>[CCF-A]</font>**
 * **[KBS]** Ying Zhen, YuChang Zhu, Jintang Li, **Liang Chen\***. "FairDLA: Improving the fairness-utility trade-off in graph neural netwo via dual-level alignment, Knowledge-Based Systems, May accepted.
