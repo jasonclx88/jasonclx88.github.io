@@ -1,0 +1,1 @@
+export default function NotFound(){return <main id="main" className="detail-page"><div className="detail-heading"><div className="eyebrow">404 / PAGE NOT FOUND</div><h1>A different direction.</h1><p>This page doesn’t exist. Continue exploring the research.</p><a href="/" className="button primary" style={{marginTop:24}}>Back to home →</a></div></main>}
