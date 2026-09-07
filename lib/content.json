@@ -47,6 +47,26 @@
     },
     {
       "kind": "li",
+      "text": "[CollaborateCom-26] 2026/09/05, our work on “From Training to Inference: Collaborative Signal-Driven Mitigation of Dual Inconsistencies in Generative Recommendation” has been accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[KDD-26] 2026/07/16, our work on “A Scaling-Friendly Dual-Stack Architecture for Cross-Domain Conversion Rate Modeling: The 2nd Place of KDD Cup 2026” has been accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[KDD-26] 2026/05/16, our work on “Revisiting Graph Autoencoders as Implicit Contrastive Learners” has been accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[KDD-26] 2026/05/16, our work on “One For All: Achieving Adaptive Graph Neural Networks via Mixture of Message Passing” has been accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
       "text": "[TKDE-25] 2025/11/24, our work on “SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding” has been accepted.",
       "links": []
     },
@@ -137,6 +157,31 @@
     }
   ],
   "publications": [
+    {
+      "kind": "h3",
+      "text": "2026",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[CollaborateCom] Simin Xia, Yuchang Zhu, Jinqiang Chen, Yangjun Xu, Liang Chen*. “From Training to Inference: Collaborative Signal-Driven Mitigation of Dual Inconsistencies in Generative Recommendation”, the 22nd EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, September 2026, accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[KDD] Yuhong Chen, Zixuan Wang, Huazhen Zhong, Jintang Li, Liang Chen*, Hui Li. “A Scaling-Friendly Dual-Stack Architecture for Cross-Domain Conversion Rate Modeling: The 2nd Place of KDD Cup 2026”, the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, July 2026, accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[KDD] Jintang Li, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Zulun Zhu, Liang Chen*. “Revisiting Graph Autoencoders as Implicit Contrastive Learners”, the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, May 2026, accepted. [CCF-A]",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[KDD] Zhaojun Luo, Jintang Li, Yuchang Zhu, Yun Fu, Liang Chen*, Zibin Zheng. “One For All: Achieving Adaptive Graph Neural Networks via Mixture of Message Passing”, the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, May 2026, accepted. [CCF-A]",
+      "links": []
+    },
     {
       "kind": "h3",
       "text": "2025",
