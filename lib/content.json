@@ -47,6 +47,11 @@
     },
     {
       "kind": "li",
+      "text": "[NeurIPS-26] 2026/09/26, our work on “SGNNBench: A Holistic Evaluation of Spiking Graph Neural Networks on Large-scale Graphs” has been accepted.",
+      "links": []
+    },
+    {
+      "kind": "li",
       "text": "[CollaborateCom-26] 2026/09/05, our work on “From Training to Inference: Collaborative Signal-Driven Mitigation of Dual Inconsistencies in Generative Recommendation” has been accepted.",
       "links": []
     },
@@ -160,6 +165,11 @@
     {
       "kind": "h3",
       "text": "2026",
+      "links": []
+    },
+    {
+      "kind": "li",
+      "text": "[NeurIPS] Huizhe Zhang, Jintang Li, Yuchang Zhu, Huazhen Zhong, Liang Chen. “SGNNBench: A Holistic Evaluation of Spiking Graph Neural Networks on Large-scale Graphs”, The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track, December 2026, accepted. [CCF-A]",
       "links": []
     },
     {
